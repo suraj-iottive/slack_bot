@@ -18,3 +18,4 @@ urllib3==2.7.0
 uvicorn==0.51.0
 pydantic-settings==2.14.2
 slack-sdk==3.43.0
+python-multipart==0.0.32
